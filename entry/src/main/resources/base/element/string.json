@@ -1,0 +1,200 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "我的京东"
+    },
+    {
+      "name": "title_activity_login",
+      "value": "登录"
+    },
+    {
+      "name": "prompt_email",
+      "value": "账号"
+    },
+    {
+      "name": "prompt_password",
+      "value": "密码"
+    },
+    {
+      "name": "action_sign_in",
+      "value": "登录或注册"
+    },
+    {
+      "name": "action_sign_in_short",
+      "value": "登录"
+    },
+    {
+      "name": "welcome",
+      "value": "欢迎！"
+    },
+    {
+      "name": "invalid_username",
+      "value": "用户名格式不正确"
+    },
+    {
+      "name": "invalid_password",
+      "value": "密码必须大于5个字符"
+    },
+    {
+      "name": "login_failed",
+      "value": "登录失败"
+    },
+    {
+      "name": "title_activity_reset",
+      "value": "重置密码"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_category",
+      "value": "分类"
+    },
+    {
+      "name": "tab_shopcart",
+      "value": "购物车"
+    },
+    {
+      "name": "tab_mine",
+      "value": "我的"
+    },
+    {
+      "name": "mine_wait_pay",
+      "value": "待付款"
+    },
+    {
+      "name": "mine_wait_receive",
+      "value": "待收货"
+    },
+    {
+      "name": "mine_all_order",
+      "value": "全部订单"
+    },
+    {
+      "name": "mine_wallet",
+      "value": "我的钱包"
+    },
+    {
+      "name": "mine_record",
+      "value": "浏览记录"
+    },
+    {
+      "name": "mine_follow",
+      "value": "我的关注"
+    },
+    {
+      "name": "mine_manager",
+      "value": "服务管家"
+    },
+    {
+      "name": "mine_account",
+      "value": "账户管理"
+    },
+    {
+      "name": "mine_bespoke",
+      "value": "我的预约"
+    },
+    {
+      "name": "mine_app",
+      "value": "应用推荐"
+    },
+    {
+      "name": "logout",
+      "value": "退出登录"
+    },
+    {
+      "name": "search_hint",
+      "value": "搜索商品"
+    },
+    {
+      "name": "search",
+      "value": "搜索"
+    },
+    {
+      "name": "price",
+      "value": "销量"
+    },
+    {
+      "name": "filter",
+      "value": "筛选"
+    },
+    {
+      "name": "select_all",
+      "value": "全选"
+    },
+    {
+      "name": "checkout",
+      "value": "去结算"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "add_address",
+      "value": "新增收货地址"
+    },
+    {
+      "name": "submit_order",
+      "value": "提交订单"
+    },
+    {
+      "name": "pay_online",
+      "value": "在线支付"
+    },
+    {
+      "name": "pay_cod",
+      "value": "货到付款"
+    },
+    {
+      "name": "pay_info",
+      "value": "支付信息"
+    },
+    {
+      "name": "order_info",
+      "value": "订单信息"
+    },
+    {
+      "name": "product_name",
+      "value": "商品名称"
+    },
+    {
+      "name": "pay_time",
+      "value": "支付时间"
+    },
+    {
+      "name": "total_amount",
+      "value": "总金额"
+    },
+    {
+      "name": "pay_token",
+      "value": "订单令牌"
+    },
+    {
+      "name": "loading",
+      "value": "加载中..."
+    },
+    {
+      "name": "no_data",
+      "value": "暂无数据"
+    },
+    {
+      "name": "empty_cart",
+      "value": "购物车是空的"
+    },
+    {
+      "name": "go_shopping",
+      "value": "去逛逛"
+    }
+  ]
+}

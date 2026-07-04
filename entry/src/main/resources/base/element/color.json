@@ -1,0 +1,144 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "ui_page_bg",
+      "value": "#F6F7F9"
+    },
+    {
+      "name": "ui_surface",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "ui_text_primary",
+      "value": "#1F2329"
+    },
+    {
+      "name": "ui_text_secondary",
+      "value": "#6B7280"
+    },
+    {
+      "name": "ui_divider",
+      "value": "#E5E7EB"
+    },
+    {
+      "name": "ui_primary_red",
+      "value": "#D81E06"
+    },
+    {
+      "name": "ui_primary_red_dark",
+      "value": "#BF1A05"
+    },
+    {
+      "name": "jd_welcome_bg",
+      "value": "#9D000B"
+    },
+    {
+      "name": "main_bottom_bg",
+      "value": "#363636"
+    },
+    {
+      "name": "bot_text_color_normal",
+      "value": "#BB1F35"
+    },
+    {
+      "name": "bot_text_color_selected",
+      "value": "#414141"
+    },
+    {
+      "name": "choose_indicator_nor",
+      "value": "#323335"
+    },
+    {
+      "name": "choose_indicator_nor_selected",
+      "value": "#F33F3F"
+    },
+    {
+      "name": "choose_jd_service_nor",
+      "value": "#232326"
+    },
+    {
+      "name": "choose_jd_service_selected",
+      "value": "#F33F3F"
+    },
+    {
+      "name": "comment_titile_txt_normal",
+      "value": "#161616"
+    },
+    {
+      "name": "comment_titile_txt_selected",
+      "value": "#F47A7A"
+    },
+    {
+      "name": "transparent",
+      "value": "#00000000"
+    },
+    {
+      "name": "black",
+      "value": "#000000"
+    },
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "ui_search_bg",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "ui_text_dark",
+      "value": "#333333"
+    },
+    {
+      "name": "ui_text_hint",
+      "value": "#666666"
+    },
+    {
+      "name": "ui_text_light",
+      "value": "#999999"
+    },
+    {
+      "name": "ui_border_light",
+      "value": "#DDDDDD"
+    },
+    {
+      "name": "ui_sub_bg",
+      "value": "#FAFAFA"
+    },
+    {
+      "name": "ui_text_mine_func",
+      "value": "#686868"
+    },
+    {
+      "name": "ui_indicator_red",
+      "value": "#F44444"
+    },
+    {
+      "name": "ui_divider_light",
+      "value": "#E8E8E8"
+    },
+    {
+      "name": "ui_btn_orange",
+      "value": "#FF6600"
+    },
+    {
+      "name": "ui_border_min",
+      "value": "#EEEEEE"
+    },
+    {
+      "name": "ui_dialog_bg",
+      "value": "#CC000000"
+    },
+    {
+      "name": "ui_overlay_bg",
+      "value": "#80000000"
+    },
+    {
+      "name": "ui_text_disable",
+      "value": "#CCCCCC"
+    }
+  ]
+}
